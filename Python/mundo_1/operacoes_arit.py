@@ -13,3 +13,5 @@ di = n1 // n2
 e = n1 ** n2
 
 print(f' A soma dos valores é: {s} \n A multiplicação e exponenciação é {m} e {e} \n Por fim, a divisão e divisão inteira é {d} e {di}')
+
+#Para regular quantas casas decimais aparecerá escreva {:.1f} (Vai aparecer apenas uma casa depois do ponto flutuante.)
