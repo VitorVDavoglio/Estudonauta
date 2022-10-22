@@ -1,4 +1,4 @@
-
+    
 frase = 'Curso em Video Python' 
 #        012345678901234567890
 
