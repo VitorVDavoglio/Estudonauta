@@ -4,4 +4,4 @@ for i in range(1, 7):
     if n1 % 2 == 0:
         soma += n1
 
-print(soma)
+print(F'A soma dos números pares é {soma}.')

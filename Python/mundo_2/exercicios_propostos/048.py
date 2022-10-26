@@ -1,7 +1,9 @@
 soma = 0
-for i in range(1, 501):
-    if (i % 2 != 0) and (i % 3 == 0):
+cont = 0
+for i in range(1, 501, 2):
+    if (i % 3 == 0):
         print(i,end=' ')
         soma += i
+        cont += 1
 print('')
-print(soma)
+print(f'A soma desses {cont} valores é igual a: {soma}')
