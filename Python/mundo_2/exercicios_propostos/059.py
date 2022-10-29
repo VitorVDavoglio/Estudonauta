@@ -17,6 +17,8 @@ while resp != 5:
     elif resp == 4:
         n1 = float(input('Digite um valor: '))
         n2 = float(input('Digite outro valor: '))
+    elif resp == 5:
+        print('Programa sendo encerrado...')
     else:
         print('Valor errado, tente novamente.')
     print('-=-' * 10)

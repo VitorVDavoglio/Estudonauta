@@ -15,3 +15,4 @@ while quant_termos_aux != 0:
     quant_termos += quant_termos_aux
     aux = n1 
 print('Programa encerrado.')
+print(f'Foram mostrados {quant_termos} termos.')
