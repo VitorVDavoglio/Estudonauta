@@ -1,6 +1,3 @@
-from operator import invert
-
-
 lista = []
 while True:
     lista.append(int(input('Digite um valor: ')))

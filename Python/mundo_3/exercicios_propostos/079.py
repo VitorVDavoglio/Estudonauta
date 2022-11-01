@@ -11,4 +11,5 @@ while True:
     if resp in 'N':
         break
 print('=-=' * 20)
+lista.sort() #Deixando em ordem crescente
 print(f'Você digitou os valores {lista}')
